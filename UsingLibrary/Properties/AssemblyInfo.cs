@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("LibraryTriangle")]
-[assembly: AssemblyDescription("A basic library for calculate the area of a triangle using four method.")]
+[assembly: AssemblyTitle("UsingLibrary")]
+[assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Lionel Diaz Moron")]
-[assembly: AssemblyProduct("LibraryTriangle")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("UsingLibrary")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("f874b907-c711-4be6-83b6-0c1c8d7b4b05")]
+[assembly: Guid("2acf6d90-c477-46c1-9ed1-649dc644b18d")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryTriangle", "LibraryTriangle\LibraryTriangle.csproj", "{F874B907-C711-4BE6-83B6-0C1C8D7B4B05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingLibrary", "UsingLibrary\UsingLibrary.csproj", "{2ACF6D90-C477-46C1-9ED1-649DC644B18D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F874B907-C711-4BE6-83B6-0C1C8D7B4B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F874B907-C711-4BE6-83B6-0C1C8D7B4B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F874B907-C711-4BE6-83B6-0C1C8D7B4B05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ACF6D90-C477-46C1-9ED1-649DC644B18D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ACF6D90-C477-46C1-9ED1-649DC644B18D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ACF6D90-C477-46C1-9ED1-649DC644B18D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ACF6D90-C477-46C1-9ED1-649DC644B18D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
